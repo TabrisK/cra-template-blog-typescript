@@ -3,6 +3,10 @@
   "version": "0.0.0",
   "description": "create a blog project",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TabrisK/create-blog"
+  }
   "scripts": {
     "test": "test"
   },
