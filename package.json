@@ -1,0 +1,14 @@
+{
+  "name": "@helex/create-blog",
+  "version": "0.0.0",
+  "description": "create a blog project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "generator"
+  ],
+  "author": "helex",
+  "license": "ISC"
+}
