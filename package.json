@@ -1,12 +1,12 @@
 {
-  "name": "@helex/create-blog",
+  "name": "@helex/cra-template-blog-typescript",
   "version": "0.0.0",
-  "description": "create a blog project",
-  "main": "index.js",
+  "description": "template of a blog project",
+  "main": "template.json",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/TabrisK/create-blog"
-  }
+  },
   "scripts": {
     "test": "test"
   },
@@ -14,5 +14,15 @@
     "generator"
   ],
   "author": "helex",
-  "license": "ISC"
+  "license": "ISC",
+  "engines": {
+    "node": ">=8.10"
+  },
+  "bugs": {
+    "url": "https://github.com/TabrisK/cra-template-blog-typescript/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
 }
