@@ -1,6 +1,6 @@
 {
   "name": "@helex/cra-template-blog-typescript",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "template of a blog project",
   "main": "template.json",
   "repository": {
