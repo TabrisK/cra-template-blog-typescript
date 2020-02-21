@@ -8,7 +8,15 @@
       "@types/react": "^16.9.0",
       "@types/react-dom": "^16.9.0",
       "@types/jest": "^24.0.0",
-      "typescript": "~3.7.2"
+      "typescript": "~3.7.2",
+      "assembly-line": "file:/Users/zhangjiawei/WebStorm/TabrisK/assembly-line"
+    },
+    "scripts": {
+      "ac": "al add --type component",
+      "aw": "al add --type widget",
+      "ap": "al add --type page",
+      "alib": "al add --type lib",
+      "project_valid": "al valid"
     }
   }
 }
